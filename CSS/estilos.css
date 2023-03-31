@@ -30,3 +30,11 @@ body{
     border-radius: 2% solid #ababab;
     font-family: Georgia;
 }
+
+#footer
+{
+    border: 5% solid rgba(rgb(215, 79, 79), rgb(84, 167, 84), rgb(217, 217, 225), alpha);
+    font-size: medium;
+    color: black;
+    font-family: bold;
+}
