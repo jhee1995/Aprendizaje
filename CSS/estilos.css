@@ -34,7 +34,10 @@ body{
 #footer
 {
     border: 5% solid rgba(rgb(215, 79, 79), rgb(84, 167, 84), rgb(217, 217, 225), alpha);
-    font-size: medium;
+    background-color: coral;
+    font-size: large;
     color: black;
-    font-family: bold;
+    font-family: 'arial narrow';
+    text-align: center;
+    padding: 1em;
 }
